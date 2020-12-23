@@ -1,5 +1,5 @@
 # Serverless Image Recognition on AWS
-Automated task of quality assurance and reporting by inspecting a digital image using AWS services
+Automated task of quality assurance and reporting by inspecting a digital image using AWS services.
 
 ## What we learned :
 
