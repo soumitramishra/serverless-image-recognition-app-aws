@@ -5,7 +5,7 @@ Automated task of quality assurance and reporting by inspecting a digital image 
 
 - AWS Best practices for **serverless architecture**.
 - Writing **AWS Lambda** functions.
-- Using **AWS Rekogniztion** to analyze images and genearate automated reports.
+- Using **AWS Rekogniztion** to analyze images and generate automated reports.
 - **AWS API Gateway** to process requests from clients outside AWS.
 - **AWS IAM** to assign role, policy and maintain security configuration of the application.
 - **Amazon SNS** to subscribe to an event and send e-mail notifications.
